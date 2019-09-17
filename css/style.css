@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Dancing+Script|Quicksand:300&display=swap');
 body{
-    font-size: 1rem;
     font-weight: 300;
     font-style:normal;
+    font-size: 1rem;
     font-family: "Quicksand", sans-serif;
     line-height:1.5;
     text-align: center;
@@ -23,6 +23,9 @@ h3{
     font-size: 2rem;
     font-family: "Quicksand", sans-serif;
     color: brown;
+}
+.header {
+    background-image: url(/images/photos/background-image.jpg)
 }
 footer{
     background-color: black;
