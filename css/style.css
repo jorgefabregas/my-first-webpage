@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Dancing+Script|Quicksand:300&display=swap');
+body{
+    font-size: 1rem;
+    font-weight: 300;
+    font-style:normal;
+    font-family: "Quicksand", sans-serif;
+    line-height:1.5;
+    text-align: center;
+    list-style-position: inside;
+}
+h1{
+    color: rgb(97, 95, 95);
+    font-size: 2.5rem; 
+    font-family: "cinzel, serif";
+    font-weight: 400;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    color: darkblue;
+}
+h3{
+    font-size: 2rem;
+    font-family: "Quicksand", sans-serif;
+    color: brown;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
